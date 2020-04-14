@@ -8,14 +8,13 @@ MEDIUM_HANDLER = "@kaul.sarath"
 
 def print_output(output_list, header):
     print(header)
-    print("===") * 20
+    print("===" * 20)
     for out in output_list:
         if type(out) == tuple:
-            print(out[0], end = "")
-            print(out[1])
+            print(out[0], out[1])
         else:
             print(out)
-    print("===") * 20
+    print("===" * 20)
 
 
 def fetch_titles(story_json):
