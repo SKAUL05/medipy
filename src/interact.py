@@ -24,7 +24,7 @@ def fetch_titles(story_json):
     return titles
 
 def fetch_categories(story_json):
-    catg_list = set()
+    set()
     catg_count = defaultdict(int)
     for item in story_json['items']:
         for category in item['categories']:
