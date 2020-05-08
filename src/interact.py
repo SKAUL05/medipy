@@ -18,7 +18,7 @@ def print_output(output_list, header):
 
 
 def fetch_titles(story_json):
-    titles = list()
+    titles = []
     for item in story_json["items"]:
         titles.append(item["title"])
     return titles
