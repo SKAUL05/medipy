@@ -1,6 +1,6 @@
 <h1 align="center">medipy</h1>
-[![GitHub license](https://img.shields.io/github/license/SKAUL05/medipy.svg?style=flat&logo=github)](https://github.com/SKAUL05/medipy/blob/master/LICENSE) 
-[![GitHub issues](https://img.shields.io/github/issues/SKAUL05/medipy.svg?logo=github)](https://github.com/SKAUL05/medipy/issues)
+[![GitHub license](https://img.shields.io/github/license/SKAUL05/medipy.svg?style=flat&logo=github)] (https://github.com/SKAUL05/medipy/blob/master/LICENSE) 
+[![GitHub issues](https://img.shields.io/github/issues/SKAUL05/medipy.svg?logo=github)] (https://github.com/SKAUL05/medipy/issues)
 
 ## Python Scripts to fetch information from Medium
 
