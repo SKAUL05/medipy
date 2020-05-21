@@ -1,6 +1,8 @@
 <h1 align="center">medipy</h1>
 
 ## Python Scripts to fetch information from Medium
+[![GitHub issues](https://img.shields.io/github/issues/SKAUL05/medipy.svg?logo=github)](https://github.com/SKAUL05/medipy/issues)
+
 
 ## Getting Started
 
