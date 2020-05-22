@@ -31,8 +31,7 @@ python src/interact.py
 
 
 ## Built With
-
-- `Python`
+[![requests](https://img.shields.io/badge/requests.svg?style=flat&logo=python&logoColor=white)](https://requests.readthedocs.io/)
 
 ## Contributing
 
