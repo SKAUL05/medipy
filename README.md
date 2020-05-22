@@ -37,17 +37,14 @@ python src/interact.py
 
 ## Contributing
  [![GitHub issues](https://img.shields.io/github/issues/SKAUL05/medipy.svg?logo=github)](https://github.com/SKAUL05/medipy/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/SKAUL05/medipy?color=blue&logo=github)](https://github.com/SKAUL05/medipy/pulls)
- [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SKAUL05/medipy?logo=github)](https://github.com/SKAUL05/medipy/)
+ [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SKAUL05/medipy?logo=github)](https://github.com/SKAUL05/medipy/commits/master)
 
 - 🔃 Create a new pull request using <a href="https://github.com/SKAUL05/medipy/compare" target="_blank">`https://github.com/SKAUL05/medipy/compare`</a>
 
 ## ➤ Author
 
 👤 **Sarath Kaul**
-
-- Linkedin: [skaul05](https://www.linkedin.com/in/skaul05/)
-- Github: [@skaul05](https://github.com/skaul05)
-- Medium: [@kaul.sarath](https://medium.com/@kaul.sarath)
+![GitHub followers](https://img.shields.io/github/followers/SKAUL05?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/SKAUL05?style=social) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@skaul05&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/skaul05/) [kaul.sarath@gmail.com](https://mail.google.com/mail/)
 
 ## ➤ Show your support
 
