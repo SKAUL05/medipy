@@ -33,7 +33,7 @@ python src/interact.py
 ## Built With/Libraries Used
 
 [![requests](https://img.shields.io/badge/Python-requests-blue.svg?style=flat&logo=python&logoColor=white)](https://requests.readthedocs.io/)
-- [Requests](https://github.com/psf/requests)requests - **requests** is an elegant and simple HTTP library for Python
+- [Requests](https://github.com/psf/requests): **requests** is an elegant and simple HTTP library for Python
 
 ## Contributing
 
