@@ -43,8 +43,9 @@ python src/interact.py
 
 ## ➤ Author
 
-👤 **Sarath Kaul**
-![GitHub followers](https://img.shields.io/github/followers/SKAUL05?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/SKAUL05?style=social) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@skaul05&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/skaul05/) [kaul.sarath@gmail.com](https://mail.google.com/mail/)
+👤 **Sarath Kaul**<br>
+
+![GitHub followers](https://img.shields.io/github/followers/SKAUL05?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/SKAUL05?style=social) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@skaul05&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/skaul05/) @[kaul.sarath@gmail.com](https://mail.google.com/mail/)
 
 ## ➤ Show your support
 
