@@ -37,7 +37,7 @@ python src/interact.py
 
 ## Contributing
  [![GitHub issues](https://img.shields.io/github/issues/SKAUL05/medipy.svg?logo=github)](https://github.com/SKAUL05/medipy/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/SKAUL05/medipy?color=blue&logo=github)](https://github.com/SKAUL05/medipy/pulls)
- [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SKAUL05/medipy?logo=github)](https://github.com/SKAUL05/medipy/)
+ [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SKAUL05/medipy?logo=github)](https://github.com/vinitshahdeo/jobtweets/)
 
 - 🔃 Create a new pull request using <a href="https://github.com/SKAUL05/medipy/compare" target="_blank">`https://github.com/SKAUL05/medipy/compare`</a>
 
