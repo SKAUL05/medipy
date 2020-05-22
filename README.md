@@ -45,7 +45,7 @@ python src/interact.py
 
 👤 **Sarath Kaul**<br>
 
-![GitHub followers](https://img.shields.io/github/followers/SKAUL05?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/SKAUL05?style=social) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@skaul05&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/skaul05/) [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kaul.sarath@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/skaul05) 
+![GitHub followers](https://img.shields.io/github/followers/SKAUL05?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/SKAUL05?style=social) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@skaul05&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/skaul05/) [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kaul.sarath@gmail.com&color=red&logo=gmail&style=social)](mailto:kaul.sarath@gmail.com?subject=Hello)
 
 
 ## ➤ Show your support
