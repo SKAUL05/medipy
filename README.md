@@ -1,7 +1,7 @@
 <h1 align="center">medipy</h1>
 
 ## Python Scripts to fetch information from Medium
-  [![GitHub license](https://img.shields.io/github/license/SKAUL05/medipy.svg?style=flat&logo=github)](https://github.com/SKAUL05/medipy/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/SKAUL05/medipy.svg?logo=github)](https://github.com/SKAUL05/medipy/issues)
+  [![GitHub license](https://img.shields.io/github/license/SKAUL05/medipy.svg?style=flat&logo=github)](https://github.com/SKAUL05/medipy/blob/master/LICENSE)
 
 ## Getting Started
 
@@ -36,6 +36,8 @@ python src/interact.py
 - [Requests](https://github.com/psf/requests): **requests** is an elegant and simple HTTP library for Python
 
 ## Contributing
+ [![GitHub issues](https://img.shields.io/github/issues/SKAUL05/medipy.svg?logo=github)](https://github.com/SKAUL05/medipy/issues)![GitHub pull requests](https://img.shields.io/github/issues-pr/SKAUL05/medipy?color=blue&logo=github) (https://github.com/SKAUL05/medipy/pulls)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/SKAUL05/medipy?logo=github)](https://github.com/SKAUL05/medipy/commits/master)
 
 - 🔃 Create a new pull request using <a href="https://github.com/SKAUL05/medipy/compare" target="_blank">`https://github.com/SKAUL05/medipy/compare`</a>
 
