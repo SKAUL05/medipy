@@ -32,7 +32,7 @@ python src/interact.py
 
 ## Built With
 
-[![requests](https://img.shields.io/badge/Python-requests.svg?style=flat&logo=python&logoColor=white)](https://requests.readthedocs.io/)
+[![requests](https://img.shields.io/badge/Python-requests-blue.svg?style=flat&logo=python&logoColor=white)](https://requests.readthedocs.io/)
 
 ## Contributing
 
