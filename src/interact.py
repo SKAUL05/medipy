@@ -18,10 +18,7 @@ def print_output(output_list, header):
 
 
 def fetch_titles(story_json):
-    titles = []
-    for item in story_json["items"]:
-        titles.append(item["title"])
-    return titles
+    return [item["title"] for item in story_json["items"]]
 
 def fetch_categories(story_json):
     set()
@@ -29,8 +26,7 @@ def fetch_categories(story_json):
     for item in story_json['items']:
         for category in item['categories']:
             catg_count[category] += 1
-    sorted_catg = sorted(catg_count.items(), key=lambda kv: kv[1], reverse=True)
-    return sorted_catg
+    return sorted(catg_count.items(), key=lambda kv: kv[1], reverse=True)
 
 if __name__ == "__main__":
     rss_uri = "https://medium.com/feed/{}".format(MEDIUM_HANDLER)
