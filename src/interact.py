@@ -29,7 +29,7 @@ def fetch_categories(story_json):
     return sorted(catg_count.items(), key=lambda kv: kv[1], reverse=True)
 
 if __name__ == "__main__":
-    rss_uri = "https://medium.com/feed/{}".format(MEDIUM_HANDLER)
+    rss_uri = f"https://medium.com/feed/{MEDIUM_HANDLER}"
     response = requests.get(url=MEDIUM_API, params={"rss_url": rss_uri},)
     json_response = json.loads(response.text)
     returned_titles = fetch_titles(json_response)
